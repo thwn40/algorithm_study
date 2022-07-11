@@ -16,7 +16,10 @@
     * README 수정일때 ex) README 수정
 
 ## 파일 및 폴더 구조
-* 이름/주차/문제이름_문제번호.java ex)seongjun/week1/대칭차집합_1269.java
+* 이름/주차/문제이름_문제번호.java ex)SeongJun/week1/대칭차집합_1269.java (클래스이름도 바꾸기)
+#### 추가설명
+* 사진은 Public/img로
+* 이름/주차/문제이름_문제번호.md ex)SeongWoong/week1/포도주시식_2156_설명.md
       
 
 ## 진행방식
