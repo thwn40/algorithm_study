@@ -1,4 +1,4 @@
-package level18_그리디알고리즘_Clear.Q4_1541;
+package GyungMin.week1;
 
 /*
 문제) 잃어버린 괄호
@@ -28,7 +28,7 @@ import java.io.InputStreamReader;
 
 import java.util.StringTokenizer;
 
-public class Main {
+public class 잃어버린괄호_1541 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int sum = Integer.MAX_VALUE;

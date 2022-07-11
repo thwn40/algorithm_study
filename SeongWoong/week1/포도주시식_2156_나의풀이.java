@@ -1,6 +1,8 @@
+package SeongWoong.week1;
+
 import java.util.Scanner;
 
-public class Main {
+public class 포도주시식_2156_나의풀이 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

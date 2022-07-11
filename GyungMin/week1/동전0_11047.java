@@ -1,4 +1,4 @@
-package level18_그리디알고리즘_Clear.Q1_11047;
+package GyungMin.week1;
 
 /*
 문제) 동전 0
@@ -22,7 +22,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-class Main {
+class 동전0_11047 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());

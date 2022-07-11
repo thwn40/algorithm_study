@@ -1,6 +1,8 @@
+package SeongWoong.week1;
+
 import java.util.Scanner;
 
-public class Main {
+public class 파도반수열_9461{
 
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
