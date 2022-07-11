@@ -1,4 +1,4 @@
-package level18_그리디알고리즘_Clear.Q2_1931;
+package GyungMin.week1;
 
 /*
 문제) 회의실 배정
@@ -22,7 +22,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class 회의실배정_1931 {
     /*
     Sudo Code)
         1. 입력 값을 받는다

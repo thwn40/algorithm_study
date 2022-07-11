@@ -1,4 +1,4 @@
-package level18_그리디알고리즘_Clear.Q3_11399;
+package GyungMin.week1;
 
 /*
 문제) ATM
@@ -41,7 +41,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Main {
+public class ATM_11399{
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());

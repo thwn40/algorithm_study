@@ -1,4 +1,4 @@
-package level18_그리디알고리즘_Clear.Q5_13305;
+package GyungMin.week1;
 
 /*
 문제) 주유소
@@ -50,7 +50,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Main {
+public class 주유소_13305 {
 
     /*
     Sudo Code)
