@@ -40,19 +40,19 @@ public class 미로탐색_2178 {
 
         while (!q.isEmpty()) {
             int[] now = q.poll();
-            int tx = now[0];    //x 대입
-            int ty = now[1];    //y
-            for (int i = 0; i < 4; i++) {   //현재 위치에 다음 위치 대입
+            int tx = now[0];
+            int ty = now[1];
+            for (int i = 0; i < 4; i++) {
                 int nx = tx + dx[i];
                 int ny = ty + dy[i];
-                if (nx < 0 || ny < 0 || nx >= n || ny >= m)     //보드 범위에서 벗어나면 아무것도 안하고 넘어가세유
+                if (nx < 0 || ny < 0 || nx >= n || ny >= m)
                     continue;
-                if (visited[nx][ny] || board[nx][ny] == 0)  //방문한 적 있거나 보드가 0이면 넘어가삼유
+                if (visited[nx][ny] || board[nx][ny] == 0)
                     continue;
                 //next actions
-                q.add(new int[]{nx, ny});   //else 현재 위치 좌표 큐에 넣긔
-                board[nx][ny] = board[tx][ty] + 1;  //보드 현재 위치에 이전 위치 + 1 = 카운트++
-                visited[nx][ny] = true;     //방문 체크
+                q.add(new int[]{nx, ny});
+                board[nx][ny] = board[tx][ty] + 1;
+                visited[nx][ny] = true;
             }
         }
     }
