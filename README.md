@@ -62,9 +62,23 @@
 - [ ] 성준 : [동적계획법](https://www.acmicpc.net/step/16 "동적계획법")
     - [연속합](https://www.acmicpc.net/problem/1912 "연속합"), [RGB거리](https://www.acmicpc.net/problem/1149 "RGB거리")
 
-- [ ] 지원 : 그래프와 순회
+- [ ] 지원 : [그래프와 순회](https://www.acmicpc.net/step/24 "그래프와 순회")
     - [미로탐색](https://www.acmicpc.net/problem/2178 "미로탐색"), [숨바꼭질](https://www.acmicpc.net/problem/1697 "숨바꼭질")
 
 
+### 7월 셋째주
 
+- [ ] 공통 : [백트래킹](https://www.acmicpc.net/step/34 "백트래킹")
+    - [스도쿠](https://www.acmicpc.net/problem/2580 "스도쿠")
 
+- [ ] 성웅 : [그래프와 순회](https://www.acmicpc.net/step/24 "그래프와 순회")
+    - [유기농 배추](https://www.acmicpc.net/problem/1012 "유기농 배추")
+      
+- [ ] 경민 : [그래프와 순회](https://www.acmicpc.net/step/24 "그래프와 순회")
+    - [단지번호 붙이기](https://www.acmicpc.net/problem/2667 "단지번호 붙이기")
+
+- [ ] 성준 : [이분탐색](https://www.acmicpc.net/step/29 "이분탐색")
+    - [랜선자르기](https://www.acmicpc.net/problem/1654 "랜선자르기")
+
+- [ ] 지원 : [동적계획법](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25 "동적계획법")
+    - [팰린드롬 공장](https://www.acmicpc.net/problem/1912 "팰린드롬 공장")
