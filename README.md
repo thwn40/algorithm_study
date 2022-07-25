@@ -90,11 +90,11 @@
  - [코딩 테스트 준비 기초 -브루트포스](https://www.acmicpc.net/workbook/view/9371 "코딩 테스트 준비 기초 -브루트포스")
 
 - [X] 성웅 :
-    - [골드바흐의 추측_6588](https://www.acmicpc.net/problem/1012 "골드바흐의 추측_6588")
+    - [골드바흐의 추측_6588](https://www.acmicpc.net/problem/6588 "골드바흐의 추측_6588")
     - [사탕 게임_3085](https://www.acmicpc.net/problem/3085 "사탕 게임_3085")
       
 - [X] 성준 : 
-    - [약수의 합_17425](https://www.acmicpc.net/problem/1654 "약수의 합_17425")
+    - [약수의 합_17425](https://www.acmicpc.net/problem/17425 "약수의 합_17425")
 
 - [X] 인환 : 
     - [리모컨_1107](https://www.acmicpc.net/problem/1107 "리모컨_1107")
