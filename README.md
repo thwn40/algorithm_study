@@ -86,8 +86,8 @@
     ### 7월 넷째주
 
  주제 : 
- [코딩 테스트 준비 기초 -수학]https://www.acmicpc.net/workbook/view/9370 "코딩 테스트 준비 기초 -수학")
- [코딩 테스트 준비 기초 -브루트포스]https://www.acmicpc.net/workbook/view/9371 "코딩 테스트 준비 기초 -브루트포스")
+ - [코딩 테스트 준비 기초 -수학](https://www.acmicpc.net/workbook/view/9370 "코딩 테스트 준비 기초 -수학")
+ - [코딩 테스트 준비 기초 -브루트포스](https://www.acmicpc.net/workbook/view/9371 "코딩 테스트 준비 기초 -브루트포스")
 
 - [X] 성웅 :
     - [골드바흐의 추측_6588](https://www.acmicpc.net/problem/1012 "골드바흐의 추측_6588")
