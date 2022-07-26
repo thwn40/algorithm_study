@@ -91,7 +91,6 @@
 
 - [X] 성웅 :
     - [골드바흐의 추측_6588](https://www.acmicpc.net/problem/6588 "골드바흐의 추측_6588")
-    - [사탕 게임_3085](https://www.acmicpc.net/problem/3085 "사탕 게임_3085")
       
 - [X] 성준 : 
     - [약수의 합_17425](https://www.acmicpc.net/problem/17425 "약수의 합_17425")
