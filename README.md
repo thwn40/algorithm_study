@@ -97,3 +97,6 @@
 
 - [X] 인환 : 
     - [리모컨_1107](https://www.acmicpc.net/problem/1107 "리모컨_1107")
+
+- [X] 성우 :
+  - [테트로미노_14500](https://www.acmicpc.net/problem/14500 "테트로미노_14500")
