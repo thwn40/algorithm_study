@@ -1,12 +1,12 @@
 package SeongWoo1.week4;
 
-import java.util.Scanner;
+import java.io.*;
 
 public class 약수의합_17425 {
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         long[] sumDivisors = new long[1000000 + 1];
         long[] cumulative = new long[1000000 + 1];
 
@@ -24,9 +24,12 @@ public class 약수의합_17425 {
             cumulative[i] = cumulative[i - 1] + sumDivisors[i];
         }
 
+        int n = Integer.parseInt(bf.readLine());
         for (int i = 0; i < n; i++) {
-            int number = scanner.nextInt();
-            System.out.println(cumulative[number]);
+            int number = Integer.parseInt(bf.readLine());
+            bw.write(cumulative[number] + "\n");
         }
+
+        bw.flush();
     }
 }
