@@ -1,4 +1,4 @@
-package SeongWoo1.week4;
+package SeongWoo.week4;
 
 import java.io.*;
 
