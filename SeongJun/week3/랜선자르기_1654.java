@@ -21,15 +21,25 @@ public class 랜선자르기_1654 {
         for (int i = 0; i < K; i++) {
             arr.add(Long.parseLong(br.readLine()));
         }
+        //제일 큰거부터
         Collections.sort(arr);
         Long current = arr.get(arr.size()-1);
+
         long sum = 0;
-        long rangeStart = 1;
+        long rangeStart = 0;
         long rangeEnd = current;
 
         while (true) {
 
+            System.out.println("sum = " + sum);
+
             sum = 0;
+            System.out.println("rangeStart = " + rangeStart);
+            System.out.println("current = " + current);
+            System.out.println("rangeEnd = " + rangeEnd);
+
+
+
             for (int i = 0; i < K; i++) {
 
                 sum += arr.get(i) / current;
@@ -40,19 +50,22 @@ public class 랜선자르기_1654 {
             if (sum < M) {
                 rangeEnd = current;
             }
+
             current = (rangeStart + rangeEnd) / 2;
 
-            if(  rangeStart==current||rangeEnd==current) break;
-//
-//            System.out.println("rangeStart = " + rangeStart);
-//            System.out.println("current = " + current);
-//            System.out.println("rangeEnd = " + rangeEnd);
-//
-//            System.out.println("sum = " + sum);
+
+            if(rangeStart==current) {
+                System.out.println("rangeStart = " + rangeStart);
+                System.out.println("current = " + current);
+                System.out.println("rangeEnd = " + rangeEnd);
+                System.out.println("sum = " + sum);
+                break;
+            }
 
 
         }
 
         System.out.println(current);
     }
+
 }
