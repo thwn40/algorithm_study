@@ -9,9 +9,6 @@ import java.util.StringTokenizer;
 
 public class 스도쿠_2580 {
     static int[][] sudoku = new int[9][9];
-    static HashMap<Integer,Integer> gibon = new HashMap<>();
-    static HashMap<Integer,Integer> hashMap = new HashMap<>();
-    static int sum =0;
 
     static boolean garo(int x, int y,int k){
         for (int i : sudoku[x]) {
@@ -83,8 +80,6 @@ public class 스도쿠_2580 {
 
         for (int i = 0; i < 9; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
-            gibon.put(i+1,0);
-            hashMap.put(i+1,0);
             for (int j = 0; j < 9; j++) {
                 sudoku[i][j]= Integer.parseInt(st.nextToken());
             }
