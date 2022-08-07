@@ -35,6 +35,26 @@
 
 ## 진행상황
 
+### 8월 둘재주[6회차]
+
+
+주제 :
+- [코딩 테스트 준비 기초 -시뮬레이션과 구현](https://www.acmicpc.net/workbook/view/9380 "코딩 테스트 준비 기초 -시뮬레이션과 구현")
+
+- [ ] 성웅 :
+
+
+- [ ] 성준 :
+
+
+- [ ] 인환 :
+
+
+- [ ] 성우 :
+
+
+
+
 
 ### 8월 첫재주[5회차]
 
@@ -43,16 +63,16 @@
 - [코딩 테스트 준비 기초 -큐와 그래프](https://www.acmicpc.net/workbook/view/9378 "코딩 테스트 준비 기초 -큐와 그래프")
 - [코딩 테스트 준비 기초 -BFS](https://www.acmicpc.net/workbook/view/9379 "코딩 테스트 준비 기초 -BFS")
 
-- [ ] 성웅 :
+- [X] 성웅 :
   - [토마토_7576](https://www.acmicpc.net/problem/7576 "토마토_7576")
 
-- [ ] 성준 :
+- [X] 성준 :
   - [나이트의 이동_7562](https://www.acmicpc.net/problem/7562 "나이트의 이동_7562")
 
-- [ ] 인환 :
+- [X] 인환 :
   - [이분 그래프_1707](https://www.acmicpc.net/problem/1707 "이분 그래프_1707")
 
-- [ ] 성우 :
+- [X] 성우 :
   - [이모티콘_14226](https://www.acmicpc.net/problem/14226 "이모티콘_14226")
 
 
