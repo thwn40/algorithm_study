@@ -75,6 +75,5 @@ public class 나이트의이동_7562 {
             int result = bfs(knightArray, startKnight, destRow, destCol);
             System.out.println(result);
         }
-
     }
 }
