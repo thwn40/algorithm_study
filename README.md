@@ -45,7 +45,7 @@
   - [톱니바퀴2_15662](https://www.acmicpc.net/problem/15662 "톱니바퀴2_15662")
 
 - [ ] 성준 :
-
+  - [로봇청소기_14503](https://www.acmicpc.net/problem/14503 "로봇청소기_14503")
 
 - [ ] 인환 :
   - [큐빙_5373](https://www.acmicpc.net/problem/5373 "큐빙_5373")
