@@ -89,6 +89,7 @@ public class 정육면체전개도_1917 {
         numberSet.put(4, 2);
 
         for (int k = 0; k < 3; k++) {
+            //초기화 시작
             int[][] board = new int[6][6];
             boolean[] check = new boolean[6];
             Plane firstPlane = new Plane();
@@ -105,6 +106,7 @@ public class 정육면체전개도_1917 {
                     board[i][j] = element;
                 }
             }
+            //초기화 끝
 
             dfs(board, check, firstPlane);
             if (result) {
