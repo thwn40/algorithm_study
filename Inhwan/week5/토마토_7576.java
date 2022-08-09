@@ -1,3 +1,5 @@
+package Inhwan.week5;
+
 import java.io.*;
 import java.util.*;
 

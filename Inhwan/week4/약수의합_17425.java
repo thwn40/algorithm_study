@@ -1,3 +1,6 @@
+package Inhwan.week4;
+
+
 // 시간초과 해결 못해서 구글링 좀 참조함
 
 import java.io.*;

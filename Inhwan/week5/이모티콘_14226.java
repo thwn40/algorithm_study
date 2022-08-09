@@ -1,3 +1,5 @@
+package Inhwan.week5;
+
 import java.util.*;
 
 public class 이모티콘_14226 {
