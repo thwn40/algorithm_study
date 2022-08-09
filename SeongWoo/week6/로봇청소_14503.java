@@ -28,7 +28,7 @@ public class 로봇청소_14503 {
         }
 
         //현재 위치 청소하는 메서드
-        public void clear() {
+        private void clear() {
             //0은 빈칸, 1은 벽, 2는 청소된 공간
             if (map[row][col] == 0) {
                 map[row][col] = 2;
@@ -37,7 +37,7 @@ public class 로봇청소_14503 {
         }
 
         //이동할 곳을 탐색하고 이동한다.
-        public void searchAndMove() {
+        private void searchAndMove() {
             //direction을 바꿔가며 왼쪽을 탐색
             for (int i = 0; i < 4; i++) {
                 int leftRow = row + dRow[(direction + 3) % 4];
