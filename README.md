@@ -46,7 +46,7 @@
 - [알고리즘 중급 - 이분 탐색](https://www.acmicpc.net/workbook/view/3984)
 
 - [ ] 성웅 :
-    - 미정
+    - [개똥벌레_3020](https://www.acmicpc.net/problem/3020 "개똥벌레")
 - [ ] 성준 :
     - [중량제한_1939](https://www.acmicpc.net/problem/1939 "중량제한")
 - [ ] 인환 :
