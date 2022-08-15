@@ -1,3 +1,6 @@
+package Inhwan.week4;
+
+
 import java.io.*;
 
 public class 골드바흐의추측_6588 {
