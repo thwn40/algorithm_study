@@ -50,7 +50,7 @@
 - [ ] 성준 :
     - [중량제한_1939](https://www.acmicpc.net/problem/1939 "중량제한")
 - [ ] 인환 :
-    - 미정
+    - [K번째 수_1300](https://www.acmicpc.net/problem/1300 "K번째 수")
 - [ ] 성우 :
     - 미정
 
