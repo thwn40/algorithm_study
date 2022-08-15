@@ -1,3 +1,6 @@
+package Inhwan.week4;
+
+
 // 시간초과 해결 못해서 구글링 좀 참조함
 
 import java.io.*;
@@ -21,9 +24,10 @@ public class 약수의합_17425 {
 //        }
 
         //
+
         for (int i=1; i<=1000; i++) {
-            for (int j=1; i*j<=1000000; j++) {
-                if (i<=j) F[i*j-1]+=i;
+            for (int j=i; i*j<=1000000; j++) {
+                F[i*j-1]+=i;
                 if (i<j) F[i*j-1]+=j;
             }
         }

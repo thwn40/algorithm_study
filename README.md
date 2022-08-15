@@ -39,8 +39,8 @@
 
 ## 진행상황
 
-### 8월 둘재주[7회차]
 
+### 8월 둘재주[7회차]
 주제 :
 
 - [알고리즘 중급 - 이분 탐색](https://www.acmicpc.net/workbook/view/3984)
@@ -80,13 +80,17 @@
 - [코딩 테스트 준비 기초 -BFS](https://www.acmicpc.net/workbook/view/9379 "코딩 테스트 준비 기초 -BFS")
 
 - [X] 성웅 :
-    - [토마토_7576](https://www.acmicpc.net/problem/7576 "토마토_7576")
+  - [토마토_7576](https://www.acmicpc.net/problem/7576 "토마토_7576")
 
 - [X] 성준 :
-    - [나이트의 이동_7562](https://www.acmicpc.net/problem/7562 "나이트의 이동_7562")
+  - [나이트의 이동_7562](https://www.acmicpc.net/problem/7562 "나이트의 이동_7562")
 
 - [X] 인환 :
-    - [이분 그래프_1707](https://www.acmicpc.net/problem/1707 "이분 그래프_1707")
+  - [이분 그래프_1707](https://www.acmicpc.net/problem/1707 "이분 그래프_1707")
+
+- [X] 성우 :
+  - [이모티콘_14226](https://www.acmicpc.net/problem/14226 "이모티콘_14226")
+
 
 - [X] 성우 :
     - [이모티콘_14226](https://www.acmicpc.net/problem/14226 "이모티콘_14226")

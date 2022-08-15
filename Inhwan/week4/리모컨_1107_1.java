@@ -1,3 +1,5 @@
+package Inhwan.week4;
+
 // 고장나지 않은 버튼으로 이동할 수 있는 채널들을 탐색하는 방법
 
 import java.util.*;
