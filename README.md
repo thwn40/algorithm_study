@@ -52,7 +52,7 @@
 - [ ] 인환 :
     - [K번째 수_1300](https://www.acmicpc.net/problem/1300 "K번째 수")
 - [ ] 성우 :
-    - 미정
+    - [부분수열의 합2](https://www.acmicpc.net/problem/1208 "부분수열의 합2")
 
 ### 8월 둘재주[6회차]
 
