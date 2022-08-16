@@ -1,7 +1,9 @@
+package SeongWoong.week6;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class 큐빙_5373_2 {
+public class 큐빙_5373_성공 {
     static Character[][][] cube;
 
     public static void main(String[] args) throws IOException {

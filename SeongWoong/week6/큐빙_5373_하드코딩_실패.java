@@ -1,10 +1,12 @@
+package SeongWoong.week6;
+
 import java.io.*;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 큐빙_5373 {
+public class 큐빙_5373_하드코딩_실패 {
     static Character[][][] cube;
 
     public static void main(String[] args) throws IOException {
