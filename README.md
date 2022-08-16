@@ -46,13 +46,13 @@
 - [알고리즘 중급 - 이분 탐색](https://www.acmicpc.net/workbook/view/3984)
 
 - [ ] 성웅 :
-    - 미정
+    - [개똥벌레_3020](https://www.acmicpc.net/problem/3020 "개똥벌레")
 - [ ] 성준 :
     - [중량제한_1939](https://www.acmicpc.net/problem/1939 "중량제한")
 - [ ] 인환 :
-    - 미정
+    - [K번째 수_1300](https://www.acmicpc.net/problem/1300 "K번째 수")
 - [ ] 성우 :
-    - 미정
+    - [부분수열의 합2](https://www.acmicpc.net/problem/1208 "부분수열의 합2")
 
 ### 8월 둘재주[6회차]
 
