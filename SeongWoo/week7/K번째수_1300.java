@@ -10,6 +10,7 @@ public class K번째수_1300 {
         int target = scanner.nextInt();
 
         long left = 1;
+        //target번째 원소는 항상 target보다 작다
         long right = target;
 
         while (left < right) {
