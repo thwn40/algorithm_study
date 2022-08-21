@@ -7,6 +7,7 @@ public class 큐빙_5373 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
+        // 테스트 케이스의 수
         int T = Integer.parseInt(br.readLine());
 
         for (int t = 0; t < T; t++) {
@@ -42,6 +43,7 @@ public class 큐빙_5373 {
     }
 
     static class Cube {
+        // 큐브의 6개의 면
         char[][] U = {{'w','w','w'},{'w','w','w'},{'w','w','w'}};
         char[][] L = {{'g','g','g'},{'g','g','g'},{'g','g','g'}};
         char[][] F = {{'r','r','r'},{'r','r','r'},{'r','r','r'}};
@@ -129,7 +131,7 @@ public class 큐빙_5373 {
         }
     }
 
-    // 배열 회전
+    // 배열을 시계방향으로 90도 회전
     static char[][] rotate(char[][] side) {
         char[][] result = new char[3][3];
         for (int i = 0; i < 3; i++) {

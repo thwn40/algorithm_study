@@ -1,6 +1,5 @@
 package Inhwan.week4;
 
-
 // 목표 채널로부터 하나씩 이동하며 숫자버튼으로 이동할 수 있는 채널인지 확인하는 방법
 
 import java.util.*;
