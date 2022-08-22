@@ -49,7 +49,7 @@
 - [ ] 성준 :
   - [최단경로](https://www.acmicpc.net/problem/1753 "최단경로")
 - [ ] 인환 :
-  - 미정
+  - [최소비용 구하기_1916](https://www.acmicpc.net/problem/1916 "최소비용 ")
 - [ ] 성우 :
   - [줄세우기](https://www.acmicpc.net/problem/2252 "줄세우기")
 
