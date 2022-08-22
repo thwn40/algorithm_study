@@ -45,7 +45,7 @@
 - [그래프이론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
 
 - [ ] 성웅 :
-  - 미정
+  - [안전영역](https://www.acmicpc.net/problem/2468 "")
 - [ ] 성준 :
   - [최단경로](https://www.acmicpc.net/problem/1753 "최단경로")
 - [ ] 인환 :
