@@ -45,13 +45,13 @@
 - [그래프이론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
 
 - [ ] 성웅 :
-  - [안전영역](https://www.acmicpc.net/problem/2468 "")
+  - [안전영역_2468](https://www.acmicpc.net/problem/2468 "")
 - [ ] 성준 :
-  - [최단경로](https://www.acmicpc.net/problem/1753 "최단경로")
+  - [최단경로_1753](https://www.acmicpc.net/problem/1753 "최단경로")
 - [ ] 인환 :
   - [최소비용 구하기_1916](https://www.acmicpc.net/problem/1916 "최소비용 ")
 - [ ] 성우 :
-  - [줄세우기](https://www.acmicpc.net/problem/2252 "줄세우기")
+  - [줄세우기_2252](https://www.acmicpc.net/problem/2252 "줄세우기")
 
 
 ### 8월 둘재주[7회차]
