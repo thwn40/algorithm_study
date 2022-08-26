@@ -47,7 +47,7 @@
 - [ ] 성웅 :
   - 미정
 - [ ] 성준 :
-  - [최단경로_1753](https://www.acmicpc.net/problem/1753 "최단경로")
+  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
 - [ ] 인환 :
   - 미정
 - [ ] 성우 :
