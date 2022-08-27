@@ -44,8 +44,8 @@
 
 - [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
 
-- [ ] 성웅 :
-  - 미정
+- [ ] 성웅 : 
+  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "")
 - [ ] 성준 :
   - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
 - [ ] 인환 :
