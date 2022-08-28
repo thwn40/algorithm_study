@@ -39,22 +39,38 @@
 
 ## 진행상황
 
-### 8월 둘재주[8회차]
+### 9월 첫째주[9회차]
 주제 :
 
-- [그래프이론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
+- [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
 
-- [ ] 성웅 :
-  - 미정
+- [ ] 성웅 : 
+  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "")
 - [ ] 성준 :
-  - [최단경로](https://www.acmicpc.net/problem/1753 "최단경로")
+  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
 - [ ] 인환 :
   - 미정
 - [ ] 성우 :
-  - [줄세우기](https://www.acmicpc.net/problem/2252 "줄세우기")
+  - 미정
 
 
-### 8월 둘재주[7회차]
+
+### 8월 넷째주[8회차]
+주제 : 
+
+- [그래프이론](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
+
+- [x] 성웅 :
+  - [안전영역_2468](https://www.acmicpc.net/problem/2468 "")
+- [x] 성준 :
+  - [최단경로_1753](https://www.acmicpc.net/problem/1753 "최단경로")
+- [x] 인환 :
+  - [최소비용 구하기_1916](https://www.acmicpc.net/problem/1916 "최소비용 ")
+- [x] 성우 :
+  - [줄세우기_2252](https://www.acmicpc.net/problem/2252 "줄세우기")
+
+  
+### 8월 셋째주[7회차]
 주제 :
 
 - [알고리즘 중급 - 이분 탐색](https://www.acmicpc.net/workbook/view/3984)
@@ -68,8 +84,7 @@
 - [x] 성우 :
   - [부분수열의 합2](https://www.acmicpc.net/problem/1208 "부분수열의 합2")
 
-
-### 8월 둘재주[6회차]
+### 8월 둘째주[6회차]
 
 주제 :
 
