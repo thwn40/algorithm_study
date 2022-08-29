@@ -49,7 +49,7 @@
 - [ ] 성준 :
   - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
 - [ ] 인환 :
-  - 미정
+  - [공통 부분 문자열_5582](https://www.acmicpc.net/problem/5582 "공통 부분 문자열")
 - [ ] 성우 :
   - [회문_17609](https://www.acmicpc.net/problem/17609 "")
 
