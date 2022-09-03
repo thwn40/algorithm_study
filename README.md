@@ -39,6 +39,22 @@
 
 ## 진행상황
 
+### 9월 둘째주[10회차]
+주제 :[다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
+
+- [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
+
+- [ ] 성웅 : 
+  - 
+- [ ] 성준 :
+  - 
+- [ ] 인환 :
+  - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
+- [ ] 성우 :
+  - 
+
+
+
 ### 9월 첫째주[9회차]
 주제 :
 
