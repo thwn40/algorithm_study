@@ -40,9 +40,9 @@
 ## 진행상황
 
 ### 9월 둘째주[10회차]
-주제 :[다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
+주제 :
 
-- [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
 
 - [ ] 성웅 : 
   - 
