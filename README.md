@@ -45,13 +45,13 @@
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
 
 - [ ] 성웅 : 
-  - 
+  - .
 - [ ] 성준 :
-  - 
+  - .
 - [ ] 인환 :
   - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
 - [ ] 성우 :
-  - 
+  - .
 
 
 
