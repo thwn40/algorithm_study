@@ -39,6 +39,22 @@
 
 ## 진행상황
 
+### 9월 둘째주[10회차]
+주제 :
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
+
+- [ ] 성웅 : 
+  - .
+- [ ] 성준 :
+  - .
+- [ ] 인환 :
+  - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
+- [ ] 성우 :
+  - .
+
+
+
 ### 9월 첫째주[9회차]
 주제 :
 
@@ -49,7 +65,7 @@
 - [ ] 성준 :
   - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
 - [ ] 인환 :
-  - 미정
+  - [공통 부분 문자열_5582](https://www.acmicpc.net/problem/5582 "공통 부분 문자열")
 - [ ] 성우 :
   - [회문_17609](https://www.acmicpc.net/problem/17609 "")
 
