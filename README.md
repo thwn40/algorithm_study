@@ -51,7 +51,7 @@
 - [ ] 인환 :
   - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
 - [ ] 성우 :
-  - .
+  - [내리막 갈_1520](https://www.acmicpc.net/problem/1520 "내리막 길")
 
 
 
