@@ -46,7 +46,7 @@
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
 
 - [ ] 성웅 :
-  - .
+  - [동전1_2293](https://www.acmicpc.net/problem/2293 "동전1")
 - [ ] 성준 :
   - [사회망 서비스_2533](https://www.acmicpc.net/problem/2533 "사회망 서비스(SNS)")
 - [ ] 인환 :
