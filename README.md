@@ -39,19 +39,36 @@
 
 ## 진행상황
 
+### 9월  둘째주[10회차]
+
+주제 :
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
+
+- [ ] 성웅 :
+  - [동전1_2293](https://www.acmicpc.net/problem/2293 "동전1")
+- [ ] 성준 :
+  - [사회망 서비스_2533](https://www.acmicpc.net/problem/2533 "사회망 서비스(SNS)")
+- [ ] 인환 :
+  - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
+- [ ] 성우 :
+  - [내리막 길_1520](https://www.acmicpc.net/problem/1520 "내리막 길")
+
+
+
 ### 9월 첫째주[9회차]
 주제 :
 
 - [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
 
-- [ ] 성웅 : 
-  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "")
-- [ ] 성준 :
-  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
-- [ ] 인환 :
-  - 미정
-- [ ] 성우 :
-  - 미정
+- [x] 성웅 :
+  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "바이러스복제")
+- [x] 성준 :
+  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "전화번호목록")
+- [x] 인환 :
+  - [공통 부분 문자열_5582](https://www.acmicpc.net/problem/5582 "공통 부분 문자열")
+- [x] 성우 :
+  - [회문_17609](https://www.acmicpc.net/problem/17609 "회문")
 
 
 
