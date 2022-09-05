@@ -38,7 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
-### 9월 둘째주[10회차]
+
+### 9월  둘째주[10회차]
+
 주제 :
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
@@ -60,14 +62,13 @@
 - [문자열](https://www.acmicpc.net/problemset?sort=ac_desc&algo=158)
 
 - [x] 성웅 :
-  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "")
+  - [바이러스복제_9241](https://www.acmicpc.net/problem/9241 "바이러스복제")
 - [x] 성준 :
-  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "")
+  - [전화번호목록_5052](https://www.acmicpc.net/problem/5052 "전화번호목록")
 - [x] 인환 :
   - [공통 부분 문자열_5582](https://www.acmicpc.net/problem/5582 "공통 부분 문자열")
 - [x] 성우 :
-  - [회문_17609](https://www.acmicpc.net/problem/17609 "")
-
+  - [회문_17609](https://www.acmicpc.net/problem/17609 "회문")
 
 
 
