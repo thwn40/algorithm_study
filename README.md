@@ -39,19 +39,36 @@
 
 ## 진행상황
 
+### 9월  셋째주[11회차]
+
+주제 :
+
+- [그리디 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
+
+- [ ] 성웅 :
+  - 
+- [ ] 성준 :
+  - 
+- [ ] 인환 :
+  - 
+- [ ] 성우 :
+  - 
+
+
+
 ### 9월  둘째주[10회차]
 
 주제 :
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problemset?sort=ac_desc&algo=25)
 
-- [ ] 성웅 :
+- [x] 성웅 :
   - [동전1_2293](https://www.acmicpc.net/problem/2293 "동전1")
-- [ ] 성준 :
+- [x] 성준 :
   - [사회망 서비스_2533](https://www.acmicpc.net/problem/2533 "사회망 서비스(SNS)")
-- [ ] 인환 :
+- [x] 인환 :
   - [게임 개발_1516](https://www.acmicpc.net/problem/1516 "게임 개발")
-- [ ] 성우 :
+- [x] 성우 :
   - [내리막 길_1520](https://www.acmicpc.net/problem/1520 "내리막 길")
 
 
