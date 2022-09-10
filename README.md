@@ -46,13 +46,13 @@
 - [그리디 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
 
 - [ ] 성웅 :
-  - 
+  - [주사위_1041](https://www.acmicpc.net/problem/1041 "주사위")
 - [ ] 성준 :
-  - 
+  - []
 - [ ] 인환 :
-  - 
+  - []
 - [ ] 성우 :
-  - 
+  - []
 
 
 
