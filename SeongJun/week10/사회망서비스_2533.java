@@ -43,6 +43,7 @@ public class 사회망서비스_2533 {
         for (Integer child : curr) {
             if(visited[child]==0){
                 dfs(child);
+
                 dp[start][0] += dp[child][1];
                 dp[start][1] += Math.min(dp[child][0], dp[child][1]);
             }
