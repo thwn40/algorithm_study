@@ -52,7 +52,7 @@
 - [ ] 인환 :
   - [크게 만들기_2812](https://www.acmicpc.net/problem/2812 "크게 ")
 - [ ] 성우 :
-  - []
+  - [회의실 배정_1931](https://www.acmicpc.net/problem/1931 "회의실 배정")
 
 
 
