@@ -1,6 +1,9 @@
 package SeongWoo.week10;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
 public class 내리막길_1520 {
 
@@ -52,15 +55,17 @@ public class 내리막길_1520 {
         return node;
     }
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        int rowSize = scanner.nextInt();
-        int colSize = scanner.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        int rowSize = Integer.parseInt(st.nextToken());
+        int colSize = Integer.parseInt(st.nextToken());
         Node[][] nodeArr = new Node[rowSize][colSize];
 
         for (int i = 0; i < rowSize; i++) {
+            st = new StringTokenizer(br.readLine(), " ");
             for (int j = 0; j < colSize; j++) {
-                nodeArr[i][j] = new Node(i, j, scanner.nextInt());
+                nodeArr[i][j] = new Node(i, j, Integer.parseInt(st.nextToken()));
             }
         }
 
