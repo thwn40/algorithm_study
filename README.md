@@ -47,13 +47,13 @@
 
 - [그리디 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
 
-- [ ] 성웅 :
+- [x] 성웅 :
   - [주사위_1041](https://www.acmicpc.net/problem/1041 "주사위")
-- [ ] 성준 :
+- [x] 성준 :
   - [카드정렬_1715](https://www.acmicpc.net/problem/1715 "카드정렬")
-- [ ] 인환 :
+- [x] 인환 :
   - [크게 만들기_2812](https://www.acmicpc.net/problem/2812 "크게 ")
-- [ ] 성우 :
+- [x] 성우 :
   - [회의실 배정_1931](https://www.acmicpc.net/problem/1931 "회의실 배정")
 
 
