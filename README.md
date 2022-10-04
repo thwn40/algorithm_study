@@ -39,8 +39,12 @@
 
 ## 진행상황
 
+### 10월  둘째주[14회차]
+- [ ] [프로그래머스 코딩테스트 연습 (2021 Dev-Matching 상반기)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=21366)
+
+
 ### 10월  첫째주[13회차]
-- [ ] 2023 카카오 코딩 테스트 리뷰
+- [x] 2023 카카오 코딩 테스트 리뷰
 
 
 
