@@ -39,7 +39,7 @@
 
 ## 진행상황
 
-### 11월  첫째주[17회차]
+### 10월  다섯째주[17회차]
 - [ ] [프로그래머스 코딩테스트 연습 (2019 카카오 코딩테스트 lv2,lv3)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=12286)
 
 
