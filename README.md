@@ -39,16 +39,20 @@
 
 ## 진행상황
 
+### 11월  첫째주[17회차]
+- [ ] [프로그래머스 코딩테스트 연습 (2019 카카오 코딩테스트 lv2,lv3)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=12286)
+
+
 ### 10월  넷째주[16회차]
-- [ ] [프로그래머스 코딩테스트 연습 (2018 카카오 코딩테스트 3차)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=9317)
+- [x] [프로그래머스 코딩테스트 연습 (2018 카카오 코딩테스트 3차)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=9317)
 
 
 ### 10월  셋째주[15회차]
-- [ ] [프로그래머스 코딩테스트 연습 (2018 카카오 코딩테스트 1차)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=9317)
+- [x] [프로그래머스 코딩테스트 연습 (2018 카카오 코딩테스트 1차)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=9317)
 
 
 ### 10월  둘째주[14회차]
-- [ ] [프로그래머스 코딩테스트 연습 (2021 Dev-Matching 상반기)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=21366)
+- [x] [프로그래머스 코딩테스트 연습 (2021 Dev-Matching 상반기)](https://school.programmers.co.kr/learn/challenges?order=recent&page=1&partIds=21366)
 
 
 ### 10월  첫째주[13회차]
