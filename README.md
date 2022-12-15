@@ -38,6 +38,10 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 12월  셋째주[18회차]
+- [ ] [프로그래머스 코딩테스트 연습 (2021 카카오 채용연계형 인턴십)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=java&partIds=22586)
+
+
 
 ### 11월 ~
 - [프로젝트 기간으로 인해 잠정 중단]
