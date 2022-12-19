@@ -38,7 +38,7 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
-### 12월  째주[18회차]
+### 12월  넷째주[19회차]
 - [ ] [프로그래머스 코딩테스트 연습 (2022 카카오 Tech Internship)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=java&partIds=31236)
 
 
