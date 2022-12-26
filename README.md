@@ -38,8 +38,26 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 12월  다섯째주[20회차]
+- [ ] [BFS]
+- [숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [숨바꼭질4](https://www.acmicpc.net/problem/13913)
+- [DSLR](https://www.acmicpc.net/problem/9019)
+- [이모티콘](https://www.acmicpc.net/problem/14226)
+- [퍼즐](https://www.acmicpc.net/problem/1525)
+- [물통](https://www.acmicpc.net/problem/2251)
+- [숨바꼭질3](https://www.acmicpc.net/problem/13549)
+- [알고스팟](https://www.acmicpc.net/problem/1261)
+- [숨바꼭질2](https://www.acmicpc.net/problem/12851)
+- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [탈출](https://www.acmicpc.net/problem/3055)
+- [탈옥](https://www.acmicpc.net/problem/9376)
+- [열쇠](https://www.acmicpc.net/problem/9328)
+
+
+
 ### 12월  넷째주[19회차]
-- [ ] [프로그래머스 코딩테스트 연습 (2022 카카오 Tech Internship)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=java&partIds=31236)
+- [x] [프로그래머스 코딩테스트 연습 (2022 카카오 Tech Internship)](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&page=1&languages=java&partIds=31236)
 
 
 ### 12월  셋째주[18회차]
