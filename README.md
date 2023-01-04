@@ -38,8 +38,11 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 1월   첫째주[21회차]
+- [ ] [BFS] 나머지 문제 풀기
+
 ### 12월  다섯째주[20회차]
-- [ ] [BFS]
+- [x] [BFS]
 - [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
 - [DSLR](https://www.acmicpc.net/problem/9019)
