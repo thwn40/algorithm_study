@@ -38,8 +38,34 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 1월  둘째주[22회차]
+- [ ] [DP]
+- [1로만들기](https://www.acmicpc.net/problem/1463)
+- [2Xn타일링](https://www.acmicpc.net/problem/11726)
+- [2Xn타일링2](https://www.acmicpc.net/problem/11727)
+- [1,2,3더하기](https://www.acmicpc.net/problem/9095)
+- [붕어빵판매하기](https://www.acmicpc.net/problem/11052)
+- [쉬운계단수](https://www.acmicpc.net/problem/10844)
+- [오르막수](https://www.acmicpc.net/problem/11057)
+- [이친수](https://www.acmicpc.net/problem/2193)
+- [스티커](https://www.acmicpc.net/problem/9465)
+- [포도주시식](https://www.acmicpc.net/problem/2156)
+- [가장긴증가하는부분수열](https://www.acmicpc.net/problem/11053)
+- [가장긴감소하는부분수열](https://www.acmicpc.net/problem/11722)
+- [가장긴바이토닉부분수열](https://www.acmicpc.net/problem/11054)
+- [연속합](https://www.acmicpc.net/problem/1912)
+- [연속합2](https://www.acmicpc.net/problem/13398)
+- [계단오르기](https://www.acmicpc.net/problem/2579)
+- [제곱수의합](https://www.acmicpc.net/problem/1699)
+- [타일채우기](https://www.acmicpc.net/problem/2133)
+- [합분해](https://www.acmicpc.net/problem/2225)
+- [합분해2](https://www.acmicpc.net/problem/13707)
+
+### 1월   첫째주[21회차]
+- [x] [BFS] 나머지 문제 풀기
+
 ### 12월  다섯째주[20회차]
-- [ ] [BFS]
+- [x] [BFS]
 - [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
 - [DSLR](https://www.acmicpc.net/problem/9019)
