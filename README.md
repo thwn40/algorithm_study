@@ -44,7 +44,7 @@
 - [2Xn타일링](https://www.acmicpc.net/problem/11726)
 - [2Xn타일링2](https://www.acmicpc.net/problem/11727)
 - [1,2,3더하기](https://www.acmicpc.net/problem/9095)
-- [붕어빵판매하기](https://www.acmicpc.net/problem/11052)
+- [카드구매하기](https://www.acmicpc.net/problem/11052)
 - [쉬운계단수](https://www.acmicpc.net/problem/10844)
 - [오르막수](https://www.acmicpc.net/problem/11057)
 - [이친수](https://www.acmicpc.net/problem/2193)
