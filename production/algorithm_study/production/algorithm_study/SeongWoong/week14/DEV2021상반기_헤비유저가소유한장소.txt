@@ -1,0 +1,11 @@
+SELECT ID,NAME,HOST_ID FROM PLACES WHERE HOST_ID 
+
+/*ID NAM HOST_ID를 출력한다, PLACES 에서, HOST_ID를 기준으로 정렬하여*/
+
+IN
+
+/*IN 연산자는 괄호안에 입력된 조건 중에서 하나라도 일치하는 것이 있다면 조회한다. */
+
+(SELECT HOST_ID FROM PLACES GROUP BY HOST_ID HAVING COUNT(*) >1);
+
+/*HOST_ID를 그룹화하여(개수세기) 1초과하는 값을 조건으로 생성*/
