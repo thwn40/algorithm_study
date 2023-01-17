@@ -38,13 +38,30 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 1월  셋째주[23회차]
+- [ ] [문자열 알고리즘]
+- [찾기](https://www.acmicpc.net/problem/1786)
+- [광고](https://www.acmicpc.net/problem/1305)
+- [Cubeditor](https://www.acmicpc.net/problem/1701)
+- [순환수열](https://www.acmicpc.net/problem/12104)
+- [문자열집합](https://www.acmicpc.net/problem/14425)
+- [접두사찾기](https://www.acmicpc.net/problem/14426)
+- [Boggle](https://www.acmicpc.net/problem/9202)
+- [전화번호목록](https://www.acmicpc.net/problem/5052)
+- [두수XOR](https://www.acmicpc.net/problem/13505)
+- [XOR합](https://www.acmicpc.net/problem/13504)
+- [부분수열XOR](https://www.acmicpc.net/problem/13445)
+- [문자열집합판별](https://www.acmicpc.net/problem/9250)
+- [돌연변이](https://www.acmicpc.net/problem/10256)
+
+
 ### 1월  둘째주[22회차]
-- [ ] [DP]
+- [x] [DP]
 - [1로만들기](https://www.acmicpc.net/problem/1463)
 - [2Xn타일링](https://www.acmicpc.net/problem/11726)
 - [2Xn타일링2](https://www.acmicpc.net/problem/11727)
 - [1,2,3더하기](https://www.acmicpc.net/problem/9095)
-- [붕어빵판매하기](https://www.acmicpc.net/problem/11052)
+- [카드구매하기](https://www.acmicpc.net/problem/11052)
 - [쉬운계단수](https://www.acmicpc.net/problem/10844)
 - [오르막수](https://www.acmicpc.net/problem/11057)
 - [이친수](https://www.acmicpc.net/problem/2193)
