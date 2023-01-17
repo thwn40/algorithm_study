@@ -1,4 +1,4 @@
-package SeongWoo.week19;
+package SeongWoo.week20;
 
 import java.io.BufferedReader;
 import java.io.IOException;
