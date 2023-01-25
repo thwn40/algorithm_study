@@ -62,7 +62,7 @@
 
 
 ### 1월  셋째주[23회차]
-- [x [문자열 알고리즘]
+- [x] [문자열 알고리즘]
 - [찾기](https://www.acmicpc.net/problem/1786)
 - [광고](https://www.acmicpc.net/problem/1305)
 - [Cubeditor](https://www.acmicpc.net/problem/1701)
