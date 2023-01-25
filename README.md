@@ -38,8 +38,31 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 1월  넷째주[24회차]
+- [ ] [그래프2]
+- [줄세우기](https://www.acmicpc.net/problem/2252)
+- [문제집](https://www.acmicpc.net/problem/1766)
+- [작업](https://www.acmicpc.net/problem/2056)
+- [네트워크연결](https://www.acmicpc.net/problem/1922)
+- [최소스패닝트리](https://www.acmicpc.net/problem/1197)
+- [타임머신](https://www.acmicpc.net/problem/11657)
+- [웜홀](https://www.acmicpc.net/problem/1865)
+- [최소비용구하기](https://www.acmicpc.net/problem/1916)
+- [최소비용구하기2](https://www.acmicpc.net/problem/11779)
+- [특정한최단경로](https://www.acmicpc.net/problem/1504)
+- [최단경로](https://www.acmicpc.net/problem/1753)
+- [경로찾기](https://www.acmicpc.net/problem/11403)
+- [플로이드](https://www.acmicpc.net/problem/11404)
+- [플로이드2](https://www.acmicpc.net/problem/11780)
+- [케빈베이컨의6단계법칙](https://www.acmicpc.net/problem/1389)
+- [궁금한민호](https://www.acmicpc.net/problem/1507)
+- [운동](https://www.acmicpc.net/problem/1956)
+- [타임머신](https://www.acmicpc.net/problem/11657)
+
+
+
 ### 1월  셋째주[23회차]
-- [ ] [문자열 알고리즘]
+- [x [문자열 알고리즘]
 - [찾기](https://www.acmicpc.net/problem/1786)
 - [광고](https://www.acmicpc.net/problem/1305)
 - [Cubeditor](https://www.acmicpc.net/problem/1701)
