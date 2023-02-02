@@ -38,8 +38,11 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 2월  첫째주[25회차]
+- [ ] [그래프2 마무리]
+
 ### 1월  넷째주[24회차]
-- [ ] [그래프2]
+- [x] [그래프2]
 - [줄세우기](https://www.acmicpc.net/problem/2252)
 - [문제집](https://www.acmicpc.net/problem/1766)
 - [작업](https://www.acmicpc.net/problem/2056)
