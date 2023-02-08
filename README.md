@@ -38,8 +38,21 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
-### 2월  첫째주[25회차]
-- [ ] [그래프2 마무리]
+### 2월  둘째주[26회차]
+- [ ] [이분탐색]
+- [수이어쓰기2](https://www.acmicpc.net/problem/1790)
+- [랜선자르기](https://www.acmicpc.net/problem/1654)
+- [나무자르기](https://www.acmicpc.net/problem/2805)
+- [공유기설치](https://www.acmicpc.net/problem/2110)
+- [구간나누기2](https://www.acmicpc.net/problem/13397)
+- [중량제한](https://www.acmicpc.net/problem/1939)
+- [배열에서이동](https://www.acmicpc.net/problem/1981)
+- [K번째수](https://www.acmicpc.net/problem/1300)
+- [놀이공원](https://www.acmicpc.net/problem/1561)
+- [사다리](https://www.acmicpc.net/problem/2022)
+- [선분과점](https://www.acmicpc.net/problem/11664)
+
+
 
 ### 1월  넷째주[24회차]
 - [x] [그래프2]
