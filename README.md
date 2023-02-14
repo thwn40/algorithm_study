@@ -38,8 +38,17 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 2월 셋째주[27회차]
+- [ ] [트리]
+- [LCA](https://www.acmicpc.net/problem/11437)
+- [정점들의거리](https://www.acmicpc.net/problem/1761)
+- [LCA2](https://www.acmicpc.net/problem/11438)
+- [도로네트워크](https://www.acmicpc.net/problem/3176)
+- [LCA와쿼리](https://www.acmicpc.net/problem/15480)
+
+
 ### 2월 둘째주[26회차]
-- [ ] [이분탐색]
+- [x] [이분탐색]
 - [수이어쓰기2](https://www.acmicpc.net/problem/1790)
 - [랜선자르기](https://www.acmicpc.net/problem/1654)
 - [나무자르기](https://www.acmicpc.net/problem/2805)
