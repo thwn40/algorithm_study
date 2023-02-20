@@ -38,10 +38,33 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
-### 2월  첫째주[25회차]
-- [ ] [그래프2 마무리]
+### 2월 셋째주[27회차]
+- [ ] [트리]
+- [LCA](https://www.acmicpc.net/problem/11437)
+- [정점들의거리](https://www.acmicpc.net/problem/1761)
+- [LCA2](https://www.acmicpc.net/problem/11438)
+- [도로네트워크](https://www.acmicpc.net/problem/3176)
+- [LCA와쿼리](https://www.acmicpc.net/problem/15480)
 
-### 1월  넷째주[24회차]
+
+### 2월 둘째주[26회차]
+- [x] [이분탐색]
+- [수이어쓰기2](https://www.acmicpc.net/problem/1790)
+- [랜선자르기](https://www.acmicpc.net/problem/1654)
+- [나무자르기](https://www.acmicpc.net/problem/2805)
+- [공유기설치](https://www.acmicpc.net/problem/2110)
+- [구간나누기2](https://www.acmicpc.net/problem/13397)
+- [중량제한](https://www.acmicpc.net/problem/1939)
+- [배열에서이동](https://www.acmicpc.net/problem/1981)
+- [K번째수](https://www.acmicpc.net/problem/1300)
+- [놀이공원](https://www.acmicpc.net/problem/1561)
+- [사다리](https://www.acmicpc.net/problem/2022)
+- [선분과점](https://www.acmicpc.net/problem/11664)
+
+### 2월 째주[25회차]
+- [x] [그래프2 마무리]
+
+### 1월 넷째주[24회차]
 - [x] [그래프2]
 - [줄세우기](https://www.acmicpc.net/problem/2252)
 - [문제집](https://www.acmicpc.net/problem/1766)
@@ -64,7 +87,7 @@
 
 
 
-### 1월  셋째주[23회차]
+### 1월 셋째주[23회차]
 - [x] [문자열 알고리즘]
 - [찾기](https://www.acmicpc.net/problem/1786)
 - [광고](https://www.acmicpc.net/problem/1305)
@@ -81,7 +104,7 @@
 - [돌연변이](https://www.acmicpc.net/problem/10256)
 
 
-### 1월  둘째주[22회차]
+### 1월 둘째주[22회차]
 - [x] [DP]
 - [1로만들기](https://www.acmicpc.net/problem/1463)
 - [2Xn타일링](https://www.acmicpc.net/problem/11726)
@@ -104,10 +127,10 @@
 - [합분해](https://www.acmicpc.net/problem/2225)
 - [합분해2](https://www.acmicpc.net/problem/13707)
 
-### 1월   첫째주[21회차]
+### 1월 첫째주[21회차]
 - [x] [BFS] 나머지 문제 풀기
 
-### 12월  다섯째주[20회차]
+### 12월 다섯째주[20회차]
 - [x] [BFS]
 - [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
