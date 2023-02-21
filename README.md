@@ -38,8 +38,11 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 2월 넷째주[28회차]
+- [ ] 2022 KAKAO BLIND RECRUITMENT
+
 ### 2월 셋째주[27회차]
-- [ ] [트리]
+- [x] [트리]
 - [LCA](https://www.acmicpc.net/problem/11437)
 - [정점들의거리](https://www.acmicpc.net/problem/1761)
 - [LCA2](https://www.acmicpc.net/problem/11438)
