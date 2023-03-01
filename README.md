@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 3월 첫째주[29회차]
+- [ ] 2019 KAKAO WINTER INTERNSHIP
+
 ### 2월 넷째주[28회차]
 - [ ] 2022 KAKAO BLIND RECRUITMENT
 
