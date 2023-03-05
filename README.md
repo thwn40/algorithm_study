@@ -39,7 +39,7 @@
 
 ## 진행상황
 ### 3월 첫째주[29회차]
-- [ ] 2019 KAKAO WINTER INTERNSHIP
+- [] 2019 KAKAO WINTER INTERNSHIP
 
 ### 2월 넷째주[28회차]
 - [x] 2022 KAKAO BLIND RECRUITMENT
