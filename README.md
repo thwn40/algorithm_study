@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 3월 둘째주[30회차]
+- [ ] 2020 KAKAO INTERNSHIP
+
 ### 3월 첫째주[29회차]
 - [ ] 2019 KAKAO WINTER INTERNSHIP
 
