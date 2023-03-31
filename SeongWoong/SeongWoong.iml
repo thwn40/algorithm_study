@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="SeongWoong" />
+      <sourceFolder url="file://$MODULE_DIR$/week10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/week9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
