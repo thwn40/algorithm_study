@@ -38,8 +38,17 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 4월 첫째주[33회차]
+- [ ] [프로그래머스 고득점kit -완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+ 
+### 3월 넷째주[32회차]
+- [x] 2020 카카오 블라인드 채용
+
+### 3월 셋째주[31회차]
+- [x] 삼성SW역량테스트 2022 상반기
+
 ### 3월 둘째주[30회차]
-- [ ] 2020 KAKAO INTERNSHIP
+- [x] 2020 KAKAO INTERNSHIP
 
 ### 3월 첫째주[29회차]
 - [x] 2019 KAKAO WINTER INTERNSHIP
