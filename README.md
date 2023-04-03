@@ -38,8 +38,11 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 4월 둘째주[34회차]
+- [ ] [프로그래머스 고득점kit -동적계획법](https://school.programmers.co.kr/learn/courses/30/parts/12263)
+
 ### 4월 첫째주[33회차]
-- [ ] [프로그래머스 고득점kit -완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+- [] [프로그래머스 고득점kit -완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
  
 ### 3월 넷째주[32회차]
 - [x] 2020 카카오 블라인드 채용
