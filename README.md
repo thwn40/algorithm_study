@@ -38,8 +38,12 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 4월 넷째주[36회차]
+- [ ] [프로그래머스 고득점kit -이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+- [ ] [프로그래머스 고득점kit -그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)
+
 ### 4월 셋째주[35회차]
-- [ ] [프로그래머스 고득점kit -DFS/BFS](https://school.programmers.co.kr/learn/courses/30/parts/12421)
+- [x] [프로그래머스 고득점kit -DFS/BFS](https://school.programmers.co.kr/learn/courses/30/parts/12421)
 
 ### 4월 둘째주[34회차]
 - [x] [프로그래머스 고득점kit -동적계획법](https://school.programmers.co.kr/learn/courses/30/parts/12263)
