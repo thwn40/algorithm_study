@@ -38,9 +38,12 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 5월 첫째주[37회차]
+- [x] [프로그래머스 Summer/Winter Coding(~2018)](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+
 ### 4월 넷째주[36회차]
-- [ ] [프로그래머스 고득점kit -이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486)
-- [ ] [프로그래머스 고득점kit -그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)
+- [x] [프로그래머스 고득점kit -이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+- [x] [프로그래머스 고득점kit -그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)
 
 ### 4월 셋째주[35회차]
 - [x] [프로그래머스 고득점kit -DFS/BFS](https://school.programmers.co.kr/learn/courses/30/parts/12421)
