@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 5월 둘째주[38회차]
+- [x] [백준 문제집 - 	삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
+
 ### 5월 첫째주[37회차]
 - [x] [프로그래머스 Summer/Winter Coding(~2018)](https://school.programmers.co.kr/learn/courses/30/parts/12486)
 
