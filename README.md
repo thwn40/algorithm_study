@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 5월 셋째주[39회차]
+- [x] [백준 문제집 - 투포인터]([https://www.acmicpc.net/workbook/view/2771](https://www.acmicpc.net/workbook/view/8709))
+
 ### 5월 둘째주[38회차]
 - [x] [백준 문제집 - 	삼성 A형 기출 문제](https://www.acmicpc.net/workbook/view/2771)
 
