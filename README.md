@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 5월 넷째주[40회차]
+- [x] [백준 문제집 - LG기출 유사문제](https://www.acmicpc.net/workbook/view/15237)
+
 ### 5월 셋째주[39회차]
 - [x] [백준 문제집 - 투포인터](https://www.acmicpc.net/workbook/view/8709)
 
