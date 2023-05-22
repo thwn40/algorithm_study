@@ -1,4 +1,4 @@
-package summerWinterCodingTo2018;
+package SeongWoong.week37;
 
 public class 영어끝말잇기 {
     class Fail {

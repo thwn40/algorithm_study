@@ -1,4 +1,4 @@
-package summerWinterCodingTo2018;
+package SeongWoong.week37;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package summerWinterCodingTo2018;
+package SeongWoong.week37;
 
 public class 점프와순간이동 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package 코딩테스트연습;
+package SeongWoong.week35;
 
 import java.util.*;
 

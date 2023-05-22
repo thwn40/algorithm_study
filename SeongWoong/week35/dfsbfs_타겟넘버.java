@@ -1,4 +1,4 @@
-package 코딩테스트연습;
+package SeongWoong.week35;
 
 public class dfsbfs_타겟넘버 {
     public static void main(String[] args) {

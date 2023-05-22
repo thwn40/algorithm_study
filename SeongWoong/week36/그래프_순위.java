@@ -1,4 +1,4 @@
-package 코딩테스트연습;
+package SeongWoong.week36;
 
 public class 그래프_순위 {
     public static void main(String[] args) {

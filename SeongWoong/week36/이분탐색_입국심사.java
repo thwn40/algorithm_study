@@ -1,4 +1,4 @@
-package 코딩테스트연습;
+package SeongWoong.week36;
 
 public class 이분탐색_입국심사 {
     public static void main(String[] args) {
