@@ -38,6 +38,9 @@
 5. 스터디 끝나면 main 브랜치로 merge
 
 ## 진행상황
+### 5월 다섯째주[41회차]
+- [x] [solved.ac Class 4](https://solved.ac/class/4e?sort=level&direction=asc&page=1)
+
 ### 5월 넷째주[40회차]
 - [x] [백준 문제집 - LG기출 유사문제](https://www.acmicpc.net/workbook/view/15237)
 
