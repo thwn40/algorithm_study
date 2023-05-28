@@ -34,8 +34,8 @@ public class 여행가자_1976 {
         }
 
         st = new StringTokenizer(br.readLine());
-        int from  = Integer.parseInt(st.nextToken()) - 1;
-        for (int i = 0; i < M-1; i++) {
+        int from = Integer.parseInt(st.nextToken()) - 1;
+        for (int i = 0; i < M - 1; i++) {
             int to = Integer.parseInt(st.nextToken()) - 1;
             if (route[from][to] != 1) {
                 answer = "NO";
