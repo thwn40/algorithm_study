@@ -1,4 +1,4 @@
-package baekjoon.graph;
+package SeongWoo.week41;
 
 import java.io.BufferedReader;
 import java.io.IOException;
